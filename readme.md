@@ -1,4 +1,4 @@
-<!-- request getQuote-->
+# request getQuote
 {  
   "origin": {
     "contact": {
@@ -39,7 +39,7 @@
 	  }
   }
 }
-<!-- request createshipment -->
+# request createshipment 
 {
     "quote":{
         "id": "657d04eb6427830e7a36ffc8"
@@ -84,7 +84,7 @@
     }
 }
 
-<!-- data base  -->
+# data base
 {
   "_id": {
     "$oid": "657d1ccd5b81744b47762543"
